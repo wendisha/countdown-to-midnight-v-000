@@ -1,5 +1,9 @@
 #write your code here
+<<<<<<< HEAD
 def countdown_with_sleep (int)
+=======
+countdown_with_sleep (int)
+>>>>>>> f88ed9dd0de89251e54e7c4bf19ba56a69237ab1
   sleep(int)
 end 
 
